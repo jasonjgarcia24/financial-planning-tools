@@ -1,5 +1,6 @@
 # <a id="Top-of-Page"> Welcome to the Financial Planning Tool!</a>
 #### A tool for current valuation and predictive analysis of portfolio allocations.
+
 ***
 ## <a id="Contents">Cotents</a>
 [Project Description](#Project-Description)<br>
@@ -9,6 +10,7 @@
 [Contributors](#Contributors)<br>
 [License](#License)<br>
 [Bottom of Page](#Bottom-of-Page)<br>
+
 ***
 ## <a id="Project-Description">Project Description</a>
 This project provides up-to-date current portfolio analysis and future estimated projections.
@@ -42,6 +44,7 @@ The layout of essentials for this project is show below.
 <a href="https://matplotlib.org/" title="https://matplotlib.org/"><img src="https://img.shields.io/badge/matplotlib-3.3.4-blue"></a>
 <br>
 <a href="requirements.txt" title="requirements.txt">Requirements List</a>
+
 ***
 ## <a id="Installation-Guide">Installation Guide</a>
 ### Project Installation
@@ -55,6 +58,7 @@ A <code>.env</code> file is required for use with the <a href="https://alpaca.ma
 | ---------------------------------- | --------------------- |
 | ALPACA_API_KEY=<key_id>            | Your API Key          |
 | ALPACA_API_SECRET_KEY=<secret_key> | Your API Secret Key   |
+
 ***
 ## <a id="Usage">Usage</a>
 ### Inputs
@@ -89,12 +93,15 @@ The tools also provides four different expected visualizations:
 
 4. A projection distribution chart from a Monte Carlo simulation:<br>
 <img src="./img/monte_carlo_plot_freq.png" title="Monte Carlo distribution plot">
+
 ***
 ## <a id="Contributors">Contributors</a>
 Currently just me :)<br>
+
 ***
-## License<a id="License">
+## <a id="License">License</a>
 Each file included in this repository is licensed under the <a href="https://github.com/jasonjgarcia24/financial-planning-tools/blob/main/LICENSE" title="github.com/jasonjgarcia24/financial-planning-tools/blob/main/LICENSE">MIT License.</a>
+
 ***
 [Top of Page](#Top-of-Page)<br>
 [Contents](#Contents)<br>
