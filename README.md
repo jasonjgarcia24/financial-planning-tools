@@ -37,7 +37,7 @@ The layout of essentials for this project is show below.
 ## <a id="Technologies">Technologies</a>
 <a href="https://docs.python.org/release/3.8.0/" title="https://docs.python.org/release/3.8.0/"><img src="https://img.shields.io/badge/python-3.8%2B-red">
 <a href="https://pandas.pydata.org/docs/" title="https://pandas.pydata.org/docs/"><img src="https://img.shields.io/badge/pandas-1.3.0-green"></a>
-<a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="https://jupyter-notebook.readthedocs.io/en/stable/"><img src="https://img.shields.io/badge/jupyter--notebook-6.4.0-green"></a>
+<a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="https://jupyter-notebook.readthedocs.io/en/stable/"><img src="https://img.shields.io/badge/jupyter--notebook-6.4.0-green"></a><a href="https://docs.python-requests.org/en/master/" title="https://docs.python-requests.org/en/master/"><img src="https://img.shields.io/badge/requests-2.24.0-green"></a>
 <a href="https://github.com/theskumar/python-dotenv" title="https://github.com/theskumar/python-dotenv"><img src="https://img.shields.io/badge/python--dotenv-0.18.0-orange"></a>
 <a href="https://pypi.org/project/alpaca-trade-api/" title="https://pypi.org/project/alpaca-trade-api/"><img src="https://img.shields.io/badge/alpaca--trade--api-1.2.3-orange"></a>
 <a href="https://dateutil.readthedocs.io/en/stable/" title="https://dateutil.readthedocs.io/en/stable/"><img src="https://img.shields.io/badge/dateutil-2.8.2-green"></a>
