@@ -20,9 +20,7 @@
 │   ├── alpaca
 │   │   ├── get_alpaca_daterange.py
 │   │   └── timezone.py
-│   ├── LICENSE
 │   ├── MCForecastTools.py
-│   └── README.md
 ├── README.md
 ├── requirements.txt
 └── tree.txt
